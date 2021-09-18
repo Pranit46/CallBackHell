@@ -1,0 +1,12 @@
+#count{
+    background-color: crimson;
+    font-weight: bold;
+    width: 100px;
+    height: 100px;
+    color: white;
+    border-radius: 100%;
+    line-height: 100px;
+    text-align: center;
+    font-size: 36px;
+    
+}
